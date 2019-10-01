@@ -1,4 +1,4 @@
 # hello-world
 helloWorld program in java CMD.
-hai hello everypnr
+hi hello everypnr
 all fate wt to do
